@@ -1,0 +1,212 @@
+STARTING TESTS WITH HOST FILE hosts3.txt
+	START OF TEST 1
+		Creating server 4 on 172.31.83.64
+		Creating server 5 on 172.31.89.187
+		Creating server 6 on 172.31.94.109
+		About to reconfigure
+	MS: 838
+END OF TEST 1
+	START OF TEST 2
+		Creating server 4 on 172.31.83.64
+		Creating server 5 on 172.31.89.187
+		Creating server 6 on 172.31.94.109
+		About to reconfigure
+	MS: 615
+END OF TEST 2
+	START OF TEST 3
+		Creating server 4 on 172.31.83.64
+		Creating server 5 on 172.31.89.187
+		Creating server 6 on 172.31.94.109
+		About to reconfigure
+	MS: 925
+END OF TEST 3
+	START OF TEST 4
+		Creating server 4 on 172.31.83.64
+		Creating server 5 on 172.31.89.187
+		Creating server 6 on 172.31.94.109
+		About to reconfigure
+	MS: 716
+END OF TEST 4
+	START OF TEST 5
+		Creating server 4 on 172.31.83.64
+		Creating server 5 on 172.31.89.187
+		Creating server 6 on 172.31.94.109
+		About to reconfigure
+	MS: 1018
+END OF TEST 5
+TOTAL: 4112
+AVG for 3 hosts: 822
+STARTING TESTS WITH HOST FILE hosts5.txt
+	START OF TEST 1
+		Creating server 6 on 172.31.83.64
+		Creating server 7 on 172.31.89.187
+		Creating server 8 on 172.31.94.109
+		Creating server 9 on 172.31.95.69
+		Creating server 10 on 172.31.87.7
+		About to reconfigure
+	MS: 813
+END OF TEST 1
+	START OF TEST 2
+		Creating server 6 on 172.31.83.64
+		Creating server 7 on 172.31.89.187
+		Creating server 8 on 172.31.94.109
+		Creating server 9 on 172.31.95.69
+		Creating server 10 on 172.31.87.7
+		About to reconfigure
+	MS: 752
+END OF TEST 2
+	START OF TEST 3
+		Creating server 6 on 172.31.83.64
+		Creating server 7 on 172.31.89.187
+		Creating server 8 on 172.31.94.109
+		Creating server 9 on 172.31.95.69
+		Creating server 10 on 172.31.87.7
+		About to reconfigure
+	MS: 710
+END OF TEST 3
+	START OF TEST 4
+		Creating server 6 on 172.31.83.64
+		Creating server 7 on 172.31.89.187
+		Creating server 8 on 172.31.94.109
+		Creating server 9 on 172.31.95.69
+		Creating server 10 on 172.31.87.7
+		About to reconfigure
+	MS: 736
+END OF TEST 4
+	START OF TEST 5
+		Creating server 6 on 172.31.83.64
+		Creating server 7 on 172.31.89.187
+		Creating server 8 on 172.31.94.109
+		Creating server 9 on 172.31.95.69
+		Creating server 10 on 172.31.87.7
+		About to reconfigure
+	MS: 809
+END OF TEST 5
+TOTAL: 3820
+AVG for 5 hosts: 764
+STARTING TESTS WITH HOST FILE hosts7.txt
+	START OF TEST 1
+		Creating server 8 on 172.31.83.64
+		Creating server 9 on 172.31.89.187
+		Creating server 10 on 172.31.94.109
+		Creating server 11 on 172.31.95.69
+		Creating server 12 on 172.31.87.7
+		Creating server 13 on 172.31.81.132
+		Creating server 14 on 172.31.89.5
+		About to reconfigure
+	MS: 718
+END OF TEST 1
+	START OF TEST 2
+		Creating server 8 on 172.31.83.64
+		Creating server 9 on 172.31.89.187
+		Creating server 10 on 172.31.94.109
+		Creating server 11 on 172.31.95.69
+		Creating server 12 on 172.31.87.7
+		Creating server 13 on 172.31.81.132
+		Creating server 14 on 172.31.89.5
+		About to reconfigure
+	MS: 812
+END OF TEST 2
+	START OF TEST 3
+		Creating server 8 on 172.31.83.64
+		Creating server 9 on 172.31.89.187
+		Creating server 10 on 172.31.94.109
+		Creating server 11 on 172.31.95.69
+		Creating server 12 on 172.31.87.7
+		Creating server 13 on 172.31.81.132
+		Creating server 14 on 172.31.89.5
+		About to reconfigure
+	MS: 910
+END OF TEST 3
+	START OF TEST 4
+		Creating server 8 on 172.31.83.64
+		Creating server 9 on 172.31.89.187
+		Creating server 10 on 172.31.94.109
+		Creating server 11 on 172.31.95.69
+		Creating server 12 on 172.31.87.7
+		Creating server 13 on 172.31.81.132
+		Creating server 14 on 172.31.89.5
+		About to reconfigure
+	MS: 712
+END OF TEST 4
+	START OF TEST 5
+		Creating server 8 on 172.31.83.64
+		Creating server 9 on 172.31.89.187
+		Creating server 10 on 172.31.94.109
+		Creating server 11 on 172.31.95.69
+		Creating server 12 on 172.31.87.7
+		Creating server 13 on 172.31.81.132
+		Creating server 14 on 172.31.89.5
+		About to reconfigure
+	MS: 720
+END OF TEST 5
+TOTAL: 3872
+AVG for 7 hosts: 774
+STARTING TESTS WITH HOST FILE hosts9.txt
+	START OF TEST 1
+		Creating server 10 on 172.31.83.64
+		Creating server 11 on 172.31.89.187
+		Creating server 12 on 172.31.94.109
+		Creating server 13 on 172.31.95.69
+		Creating server 14 on 172.31.87.7
+		Creating server 15 on 172.31.81.132
+		Creating server 16 on 172.31.89.5
+		Creating server 17 on 172.31.94.129
+		Creating server 18 on 172.31.94.18
+		About to reconfigure
+	MS: 911
+END OF TEST 1
+	START OF TEST 2
+		Creating server 10 on 172.31.83.64
+		Creating server 11 on 172.31.89.187
+		Creating server 12 on 172.31.94.109
+		Creating server 13 on 172.31.95.69
+		Creating server 14 on 172.31.87.7
+		Creating server 15 on 172.31.81.132
+		Creating server 16 on 172.31.89.5
+		Creating server 17 on 172.31.94.129
+		Creating server 18 on 172.31.94.18
+		About to reconfigure
+	MS: 1012
+END OF TEST 2
+	START OF TEST 3
+		Creating server 10 on 172.31.83.64
+		Creating server 11 on 172.31.89.187
+		Creating server 12 on 172.31.94.109
+		Creating server 13 on 172.31.95.69
+		Creating server 14 on 172.31.87.7
+		Creating server 15 on 172.31.81.132
+		Creating server 16 on 172.31.89.5
+		Creating server 17 on 172.31.94.129
+		Creating server 18 on 172.31.94.18
+		About to reconfigure
+	MS: 1021
+END OF TEST 3
+	START OF TEST 4
+		Creating server 10 on 172.31.83.64
+		Creating server 11 on 172.31.89.187
+		Creating server 12 on 172.31.94.109
+		Creating server 13 on 172.31.95.69
+		Creating server 14 on 172.31.87.7
+		Creating server 15 on 172.31.81.132
+		Creating server 16 on 172.31.89.5
+		Creating server 17 on 172.31.94.129
+		Creating server 18 on 172.31.94.18
+		About to reconfigure
+	MS: 839
+END OF TEST 4
+	START OF TEST 5
+		Creating server 10 on 172.31.83.64
+		Creating server 11 on 172.31.89.187
+		Creating server 12 on 172.31.94.109
+		Creating server 13 on 172.31.95.69
+		Creating server 14 on 172.31.87.7
+		Creating server 15 on 172.31.81.132
+		Creating server 16 on 172.31.89.5
+		Creating server 17 on 172.31.94.129
+		Creating server 18 on 172.31.94.18
+		About to reconfigure
+	MS: 811
+END OF TEST 5
+TOTAL: 4594
+AVG for 9 hosts: 918
